@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/libraries" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/docs" />
+      <root url="file://$PROJECT_DIR$/lib/docs1" />
+      <root url="file://$PROJECT_DIR$/lib/reference" />
+      <root url="file://$PROJECT_DIR$/lib/docs2" />
+      <root url="file://$PROJECT_DIR$/lib/reference1" />
+      <root url="file://$PROJECT_DIR$/lib/reference2" />
+      <root url="file://$PROJECT_DIR$/lib/reference3" />
+      <root url="file://$PROJECT_DIR$/lib/reference4" />
+      <root url="file://$PROJECT_DIR$/lib/docs3" />
+      <root url="file://$PROJECT_DIR$/lib/docs4" />
+      <root url="file://$PROJECT_DIR$/lib/docs5" />
+      <root url="file://$PROJECT_DIR$/lib/docs6" />
+      <root url="file://$PROJECT_DIR$/lib/reference5" />
+      <root url="file://$PROJECT_DIR$/lib/docs7" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/MidiMapper" />
+      <root url="file://$PROJECT_DIR$/lib/src" />
+      <root url="file://$PROJECT_DIR$/lib/src1" />
+      <root url="file://$PROJECT_DIR$/lib/applet" />
+      <root url="file://$PROJECT_DIR$/lib/src2" />
+      <root url="file://$PROJECT_DIR$/lib/MidiMapper1" />
+      <root url="file://$PROJECT_DIR$/lib/src3" />
+      <root url="file://$PROJECT_DIR$/lib/src4" />
+      <root url="file://$PROJECT_DIR$/lib/src5" />
+      <root url="file://$PROJECT_DIR$/lib/src6" />
+      <root url="file://$PROJECT_DIR$/lib/src7" />
+    </SOURCES>
+  </library>
+</component>
